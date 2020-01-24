@@ -1,0 +1,1 @@
+document.getElementById('countdown').innerText('Hello World');
