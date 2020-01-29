@@ -1,6 +1,8 @@
 .slider {
-    background: darkblue url('/assets/images/img1.jpg');
-    background-position: top center;
+    background: darkblue url('/assets/images/businessmen-shaking-hands.jpg');
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
     opacity: 0.80;
     filter: alpha(opacity=80);
     min-height: 55vh;

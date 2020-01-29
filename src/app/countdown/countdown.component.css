@@ -5,3 +5,7 @@ hr {
 #countdown {
     font-size: 3em;
 }
+
+.container {
+    min-height: 65vh;
+}
